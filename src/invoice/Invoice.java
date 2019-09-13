@@ -1,5 +1,6 @@
 package invoice;
 
+
 public class Invoice {
     int partNumber;
     String description;
