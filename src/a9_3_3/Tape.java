@@ -3,6 +3,7 @@ package a9_3_3;
 
 
 public class Tape extends Publication {
+
     protected float playingTame;
 
     public Tape ( float playingTame ) {
